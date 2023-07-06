@@ -1,0 +1,1 @@
+import * as htmltoImage from 'html-to-image';
